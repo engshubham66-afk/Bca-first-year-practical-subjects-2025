@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript Events Example</title>
+    <script>
+        function showMessage() {
+            alert("Button Clicked!");
+        }
+
+        function changeText() {
+            document.getElementById("text").innerHTML = "Mouse is over me!";
+        }
+
+        function resetText() {
+            document.getElementById("text").innerHTML = "Bring mouse here";
+        }
+
+        function keyPressed() {
+            document.getElementById("keyMsg").innerHTML = "Key Pressed!";
+        }
+
+        function pageLoaded() {
+            alert("Page Loaded Successfully");
+        }
+    </script>
+</head>
+
+<body onload="pageLoaded()">
+
+<h2>JavaScript Events Demo</h2>
+
+<!-- Click Event -->
+<button onclick="showMessage()">Click Me</button><br><br>
+
+<!-- Mouse Over & Mouse Out Events -->
+<p id="text" onmouseover="changeText()" onmouseout="resetText()">
+    Bring mouse here
+</p>
+
+<!-- Key Press Event -->
+<input type="text" onkeypress="keyPressed()">
+<p id="keyMsg"></p>
+
+</body>
+</html>

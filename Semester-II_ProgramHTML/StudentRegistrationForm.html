@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Student Registration Form</title>
+    </head>
+<body>
+    <form action ="/submit-form" method = "post">
+        <fieldset>
+            <legend>Registration Form</legend>
+            <label for = "sname">Name: </label>
+            <input type = "text" id = "sname" name = "sname" ><br><br>
+
+            <label for = "semail">Email: </label>
+            <input type = "email" id = "semail" name = "semail"><br><br>
+
+            <label>Gender: </label>
+            Male: <input type = "radio" id = "male" name = "gender"> Female: <input type = "radio" id = "female" name = "gender"><br><br>
+
+            <label for = "course">Course: </label>
+            <select id = "course" name = "course">
+            <option value = "bca">BCA</option>
+            <option value = "mca">MCA</option>
+            <option value ="bsc">BSc</option>
+            <option value = "bcom">B.Com</option>
+            </select><br><br>
+
+
+            <label for = "address" >Address: </label><br>
+            <textarea id = "address" name = "address" rows = "4" cols ="50" ></textarea><br><br>
+
+            <button type ="submit" >Submit Registration</button>
+        </fieldset>
+
+        
+    </form>
+</body>
+
+</html>

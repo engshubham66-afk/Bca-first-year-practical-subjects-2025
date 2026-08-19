@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StringExample",
+            "request": "launch",
+            "mainClass": "StringExample",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Sting",
+            "request": "launch",
+            "mainClass": "Sting",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorApp",
+            "request": "launch",
+            "mainClass": "CalculatorApp",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Constructor",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "DeConstructor",
+            "request": "launch",
+            "mainClass": "DeConstructor",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "FactorialNonRecursion",
+            "request": "launch",
+            "mainClass": "FactorialNonRecursion",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "PrePost",
+            "request": "launch",
+            "mainClass": "PrePost",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Add",
+            "request": "launch",
+            "mainClass": "Add",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverriding",
+            "request": "launch",
+            "mainClass": "MethodOverriding",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "AdditionTwoNumber",
+            "request": "launch",
+            "mainClass": "AdditionTwoNumber",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "AreaCircle",
+            "request": "launch",
+            "mainClass": "AreaCircle",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "n",
+            "request": "launch",
+            "mainClass": "n",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "Largest",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciFactorial",
+            "request": "launch",
+            "mainClass": "FibonacciFactorial",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Comand",
+            "request": "launch",
+            "mainClass": "Comand",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "ImplicitTypecasting",
+            "request": "launch",
+            "mainClass": "ImplicitTypecasting",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumber",
+            "request": "launch",
+            "mainClass": "LargestNumber",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "WelcomeStudent",
+            "request": "launch",
+            "mainClass": "WelcomeStudent",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "SquareNumberCommandLine",
+            "request": "launch",
+            "mainClass": "SquareNumberCommandLine",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Cube",
+            "request": "launch",
+            "mainClass": "Cube",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Multi",
+            "request": "launch",
+            "mainClass": "Multi",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "SquareNumber",
+            "request": "launch",
+            "mainClass": "SquareNumber",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Product",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "MultilevelInheritance",
+            "request": "launch",
+            "mainClass": "MultilevelInheritance",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "SimpleInheritance",
+            "request": "launch",
+            "mainClass": "SimpleInheritance",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "X",
+            "request": "launch",
+            "mainClass": "X",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Shubham",
+            "request": "launch",
+            "mainClass": "Shubham",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorOverloading",
+            "request": "launch",
+            "mainClass": "ConstructorOverloading",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "InstantBlock",
+            "request": "launch",
+            "mainClass": "InstantBlock",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "StaticBlock",
+            "request": "launch",
+            "mainClass": "StaticBlock",
+            "projectName": "JavaProgram_2eed042a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
